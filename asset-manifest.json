@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github-profile-search/static/css/main.c1d51ad9.chunk.css",
+    "main.js": "/github-profile-search/static/js/main.997374e8.chunk.js",
+    "main.js.map": "/github-profile-search/static/js/main.997374e8.chunk.js.map",
+    "runtime-main.js": "/github-profile-search/static/js/runtime-main.4215bcac.js",
+    "runtime-main.js.map": "/github-profile-search/static/js/runtime-main.4215bcac.js.map",
+    "static/js/2.34d3b3d8.chunk.js": "/github-profile-search/static/js/2.34d3b3d8.chunk.js",
+    "static/js/2.34d3b3d8.chunk.js.map": "/github-profile-search/static/js/2.34d3b3d8.chunk.js.map",
+    "index.html": "/github-profile-search/index.html",
+    "precache-manifest.d4110db53ba6e0a60b72b134b63ae20c.js": "/github-profile-search/precache-manifest.d4110db53ba6e0a60b72b134b63ae20c.js",
+    "service-worker.js": "/github-profile-search/service-worker.js",
+    "static/css/main.c1d51ad9.chunk.css.map": "/github-profile-search/static/css/main.c1d51ad9.chunk.css.map",
+    "static/js/2.34d3b3d8.chunk.js.LICENSE.txt": "/github-profile-search/static/js/2.34d3b3d8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/github-profile-search/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4215bcac.js",
+    "static/js/2.34d3b3d8.chunk.js",
+    "static/css/main.c1d51ad9.chunk.css",
+    "static/js/main.997374e8.chunk.js"
+  ]
+}
